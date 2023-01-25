@@ -60,4 +60,6 @@ $ In which directory is your code located? ./
 > select project
 > go to settings
 > go to Environment Variables
+> check Production, Preview, Development
+> fill-up environment variable
 ```
