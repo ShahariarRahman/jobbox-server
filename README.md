@@ -50,9 +50,8 @@ $ In which directory is your code located? ./
 ### update vercel deploy
 
 - `npm deploy`
-
-* after each update new server generated
-* - delete previous unnecessary server
+- after each update new server generated
+- - delete previous unnecessary server
 
 ### Environment variables in vercel
 
