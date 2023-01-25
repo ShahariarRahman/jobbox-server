@@ -10,7 +10,7 @@
 
 - vercel --version
 
-### vercel.json
+### [vercel.json](https://github.com/ShahariarRahman/jobbox-server/commit/5d1958f586a217561e52c3faeac23bfa4b493b45)
 
 - version | builds | routes
 
@@ -30,4 +30,18 @@
     }
   ]
 }
+```
+
+### [login](https://vercel.com/docs/cli/login)
+
+- vercel login
+
+### deploy cli :
+
+```
+$ Set up and deploy "location..."? [Y/n] y
+$ Which scope do you want to deploy to? select an account
+$ Link to existing project? [y/n] n
+$ What is your project's name? (default-name) or type name
+$ In which directory is your code located? ./
 ```
