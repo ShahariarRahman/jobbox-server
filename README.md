@@ -49,7 +49,7 @@ $ In which directory is your code located? ./
 
 ### update vercel deploy
 
-- `npm deploy`
+- ` vercel deploy`
 - after each update new server generated
 - - delete previous unnecessary server
 
